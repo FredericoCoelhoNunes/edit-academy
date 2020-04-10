@@ -1,0 +1,8 @@
+,reviews.rating,reviews.rating,reviews.username
+,mean,count,nunique
+city,,,
+Charleston,4.416107382550336,149,93
+Lahaina,4.396551724137931,116,116
+Arlington,4.336405529953917,217,71
+San Francisco,4.334166666666667,120,100
+Chicago,4.33202247191011,356,271
